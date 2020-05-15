@@ -1,0 +1,207 @@
+year,active,name,country
+2015,Yes,Argonaut Phase 2 Implementation & Testing - Developing a Web Based Client,US
+2010,Yes,SMART Health IT,US
+2015,Yes,HL7 FHIR Conformance and Interoperability Test Platform,US
+2015,Yes,AEGIS WildFHIR Client and Server,US
+2015,Yes,Semantic Interoperability Framework (SIF),US
+2015,Yes,Semantic Interoperability Framework (SIF),US
+2014,Yes,Crucible: A FHIR Testing Tool,US
+2013,Yes,PatientPing: Real-Time ADT Notifications,US
+2014,Yes,Advancing Functional Interoperability through Standards for Health Information Management (HIM) Practices,US
+2010,Yes,Allscripts Developer Program (ADP),US
+2015,Yes,Carequality Interoperability Framework,US
+2017,Yes,FHIR-Based Healthcare Provider Directory,US
+2012,Yes,The Sequoia Project,US
+2009,Yes,eHealth Exchange,US
+2006,Yes,"Total Interoperability Today, with MedKaz®",US
+2013,Yes,OpenHIE (OHIE),US
+2012,Yes,DirectTrust,US
+2015,Yes,FHIR Enabled Open Source Terminology Service,US
+2015,Yes,Pharmacist eCare Plan,US
+2016,Yes,Pre-OAuth Entity Trust (POET),US
+2014,Yes,"PatientGen - synthetic, realistic patient data for use in interoperability testing",US
+2015,Yes,FHIR HAPI Test Server,US
+2015,Yes,FHIR APIs for Health Provider Directory and Consumer Directory,US
+2016,Yes,Carolinas HealthCare System-LInK,US
+2016,Yes,VA FHIR Transition Working Group (FTWG),US
+2016,Yes,Oregon Provider Directory,US
+2015,Yes,AEGIS Touchstone : FHIR Testing Platform,US
+2017,Yes,"FHIR based terminology server at NewYork-Presbyterian Hospital, NY, NY",US
+2016,Yes,EzVac: Immunization Forecasts using FHIR at the NewYork-Presbyterian Hospital,US
+2015,Yes,Interoperability Standards Advisory (ISA),US
+2017,Yes,AMA Integrated Health Model Initiative (IHMI),US
+2016,Yes,MyLinks - 1st Place winner of ONC Consumer Health Data Aggregator Challenge,US
+2014,Yes,Moxe Health - Clinical Data Sharing - Substrate,US
+2017,Yes,Moxe Health - Bi-directional EMR Integration - Convergence,US
+2018,Yes,"""FHIR Activity Definition"": Zynx Health Developer Program",US
+2017,Yes,"Interoperability for Health Info. Systems - HL7, FHIR, CCDA, PHM, CCM, Quality Measures",US
+2018,Yes,Digital Certificates to Scale Cross-Organizational use of FHIR,US
+2018,Yes,Fluidity Health: A Collaborative Patient-Centric Care Delivery Network,US
+2018,Yes,FHIR Sandbox - InterSystems,US
+2018,Yes,1upHealth - FHIR API Platform and EHR Connectivity,US
+2017,Yes,"""Dynamic FHIR API""",US
+2018,Yes,Da Vinci Data Exchange for Quality Measures (DEQM) Implementation Guide,US
+2018,Yes,Da Vinci Coverage Requirement Discovery (CRD) Implementation Guide,US
+2018,Yes,Georgia Tech: Asthma Control Tracker,US
+2018,Yes,Georgia Tech: Chart Review and Annotator,US
+2018,Yes,Georgia Tech: Clinical Decison Support for Pediatric mTBI,US
+2018,Yes,Georgia Tech: Epidemics – Asthma Control,US
+2018,Yes,Georgia Tech: fareRx – Drug Price Comparison,US
+2018,Yes,Georgia Tech: HART on FHIR,US
+2018,Yes,Georgia Tech: Healthy Heart,US
+2018,Yes,Georgia Tech: Identification of Patients Requiring Statin Therapy,US
+2018,Yes,Georgia Tech: Labor Tracker,US
+2018,Yes,Georgia Tech: Livermore – 3D Liver Modeling,US
+2018,Yes,Georgia Tech: Managed Weight Loss System,US
+2018,Yes,Georgia Tech: Medication Reconciliation,US
+2018,Yes,Georgia Tech: Mild Traumatic Brain Injury in Pediatric Patients,US
+2018,Yes,Georgia Tech: Modified Early Warning System,US
+2018,Yes,Georgia Tech: Planet Health – Predictive Model for Mortality,US
+2018,Yes,Georgia Tech: Prescription drug monitoring program,US
+2018,Yes,Georgia Tech: Prescription Pricer,US
+2018,Yes,"EMDI- MedWare, Inc Interoperability Pilot",US
+2018,Yes,EMDI- MedSide Healthcare Interoperability Pilot,US
+2018,Yes,Pop Health on FLAT FHIR: A SMART Approach to Universal Healthcare Reporting,US
+2019,Yes,EMDI- eHealth Exchange Interoperability Pilot,US
+2018,Yes,Documentation Requirement Lookup Service (DRLS) Initiative,US
+2018,Yes,Documentation Requirement Lookup Service (DRLS) Initiative,US
+2017,Yes,Integration of health information exchange (HIE) data with the Cerner electronic health record (EHR),US
+2014,Yes,Redox Integration Platform and Interoperability Network,US
+2019,Yes,Veradigm 30 Day Medication Reconciliation Post Discharge (MRP) use case via Da Vinci project,US
+2019,Yes,eLTSS FHIR Reference Implementation Guide - Altarum Institute,US
+2018,Yes,Enhancing the Logical Observation Identifiers Names and Codes Standard to Support U.S. Interoperability,US
+2019,Yes,LEAP 2019 - San Diego Regional Health Information Exchange,US
+2019,Yes,Leading Edge Acceleration Projects (LEAP) in Health Information Technology - FHIRedApp: An API-based patient engagement platform,US
+2019,Yes,EMDI- BlueButtonPro Interoperability Pilot,US
+2019,Yes,Da Vinci Notifications,US
+2019,Yes,DaVinci Prior Authorization Support (PAS),US
+2019,Yes,Da Vinci Payer Data Exchange Formulary (PDEX Formulary),US
+2019,Yes,Da Vinci Payer Data Exchange(PDex) Plan Net Directory,US
+2019,Yes,Da Vinci Payer Coverage Decision Exchange,US
+2019,Yes,Da Vinci Risk Based Contract Member Identification,US
+2018,Yes,Preveta: Care Coordination and Analytics,US
+2020,Yes,Hardwiring Transitions of Care: Leverage AI to Predict COVIC19 Patient Outcomes,US
+2020,Yes,"A HIPAA Compliant, Interdisciplinary Collaboration Tool for Front-Line Clinicians: TrekIT",US
+2020,Yes,FHIR Profile Implementation Guide (IG),US
+2020,Yes,COVID-19 Knowledge Accelerator,US
+2020,Yes,OneRecord,US
+2020,Yes,COVID-19 Test Ordering and FHIR API - Health Gorilla,US
+2020,Yes,"HIPAA-Compliant, Sign-out and Care Collaboration for COVID-19 - Listrunner",US
+2020,Yes,Pharmacists Combatting COVID-19,US
+2020,Yes,Dock Health - HIPAA compliant task management and collaboration platform built specifically for healthcare,US
+2020,Yes,COVID-19 Contact Tracing Blockchain,US
+2020,Yes,COVID-19 Alerts and Reporting Pilot - Population Health Management,US
+2016,Yes,Synthea,US
+2020,Yes,"A Patient facing COVID Symptom Tracker, ability to gather and share medical records and symptoms",US
+2020,Yes,A HIPAA compliant software tool to efficiently transition patients to PAC providers,US
+2018,Yes,Particle Health - Health data access via a simple API,US
+2020,Yes,FHIR R4 test sandbox from Smile CDR,US
+2020,Yes,StayHome.app sharable COVID-19 tracking & info,US
+2020,Yes,Covid19 on FHIR,US
+2020,Yes,Consensus Interoperability Platform - J2 Global,US
+2020,Yes,b.well Connected Health Lite: Covid-19 Platform,US
+2020,Yes,Phreesia Patient Intake to reduce COVID-19 exposure for patients and staff,US
+2020,Yes,Embleema COVID-19 Data Initiative for Patient Advocacy Groups,US
+2018,Yes,"A standards-based, plug-and-play interoperability and analytics platform: HealthConcourse",US
+2020,Yes,COVID-19 Interoperability Alliance,US
+2020,Yes,Comprehensive COVID-19 Anaytics,US
+2020,Yes,Gravity Project SDOH and COVID-19 Data Standardization,US
+2016,Yes,HealthLX - Interoperability Platform and Accelerators for Payers and Providers,US
+2019,Yes,Da Vinci Notifications,US
+2020,Yes,Hospital and healthcare resource surge surveillance system,US
+2020,Yes,FHIR R4 test sandbox from Smile CDR,US
+2016,No,Data Access Framework (DAF) Pilot-PopMedNet,US
+2015,No,SDC Pilot-UCSF (University of California San Francisco),US
+2015,No,SDC Pilot-CAP (College of American Pathologists),US
+2014,No,"Clinical Quality Framework- HLN Consulting, LLC",US
+2016,No,Data Access Framework (DAF) Pilot - REACHnet,US
+2015,No,Clinical Data Collection Pilot - ChartPull / BloomAPI,US
+2016,No,PHQ-9 Reporting Trial,US
+2015,No,"Real-time, automated C-CDA clinical data exchange between Epic E.H.R.s and the Mississippi Division of Medicaid",US
+2015,No,Cisco-UCSF Connected Health interoperability Platform,US
+2016,No,RxREVU's FHIR-Enabled Prescription Decision Support Integrated within the Cerner EHR in Collaboration with Banner Health,US
+2016,No,Supporting Closed-Loop Surgical Referrals with a SMART on FHIR Dashboard,US
+2016,No,FHIR®-based Predictive Analytics: A Breast Cancer Pilot,US
+2016,No,Define FHIR Repository processes,US
+2016,No,California Directory Services,US
+2017,No,Sync for Genes,US
+2017,No,Rio Grande Valley Health Information Exchange - Interoperability Technology,US
+2017,No,University of Kentucky HealthCare - Interoperability and Cost Savings Achieved,US
+2017,No,"ADVault, MyDirectives.com Patient Generated Health Data Registry Project",US
+2015,No,Clinical Data Collection Pilot - ChartPull by BloomAPI,US
+2018,No,EMDI- Cognosante Interoperability Pilot,US
+2017,No,Continua Design Guidelines CODE for Healthcare by PCHAlliance,US
+2016,No,Operationalizing Best Practices in Emergency Medicine,US
+2016,No,Optimizing Detection and Treatment of High-Risk Heart Failure Patients,US
+2017,No,Development of Mental Health Prescription Decision Support with Pharmacogenetics,US
+2017,No,Implementing STEPSTools: Evidence-Based Dosage Rounding and Prescribing Heuristics in Pediatrics,US
+2016,No,Pediatric Antimicrobial Stewardship Guidelines at the Point of Care,US
+2017,No,Sync for Genes Phase 2 Pilot - National Marrow Donor Program (NMDP),US
+2016,No,Consumer Health Data Aggregator Challenge,US
+2016,No,Provider User-Experience Challenge,US
+2017,No,Secure API Server Showdown Challenge,US
+2017,No,Coordinated Registry Network (CRN) Project,US
+2018,No,Common Healthcare Data Interoperability Project,US
+2017,No,Sync for Genes Phase 2 Pilot - Utah Newborn Screening Program (Utah NBS),US
+2017,No,Sync for Genes Phase 2 Pilot - Weill Cornell Medical Center (Weill Cornell),US
+2017,No,Sync for Genes Phase 2 Pilot - Lehigh Valley Health Network (LVHN),US
+2019,No,EMDI- BRYJ Interoperability Pilot,US
+2019,No,Da Vinci Documents Templates and Rules (DTR) Implementation Guide (IG),US
+2018,No,NLP2FHIR: A FHIR-based Clinical Data Normalization Pipeline,US
+2020,No,EMDI- eClinicalWorks Interoperability Pilot,US
+2017,No,Patient Reported Outcomes (PRO) Project,US
+2018,No,Patient Reported Outcomes (PRO) Pilot - Research Action for Health Network (REACHnet),US
+2018,No,Patient Reported Outcomes Pilot - Patient-centered SCAlable National Network for Effectiveness Research (pSCANNER),US
+2020,No,CoreASSIST - Digital Assistant for COVID-19,US
+2018,No,CoreLAKE - An Out-Of-The-Box Data Lake Platform,US
+2020,No,A FHIR-enabled COVID19 Triage and Monitoring Application,US
+2015,Yes,National Clinical Terminology Service (NCTS),Australia
+2017,No,HL7AUSD-STD-OO-ADRM-2017.1 Australian Pathology Messaging - Localisation of HL7 Version 2.4 (Superseded),Australia
+2017,Yes,HL7AUIG-STU-FHIR-BASE AU Base 1 on FHIR STU3 (v1.0.2),Australia
+2018,Yes,HL7AUSD-STD-OO-ADRM-2018.1 Australian Diagnostics and Referral Messaging - Localisation of HL7 Version 2.4,Australia
+2019,Yes,HL7AUIG-CIB-FHIR-ARGO Argonaut Australia,Australia
+2019,Yes,HL7AUIG-CIB-FHIR-PD Australian Profile for Provider Directory Services,Australia
+2020,Yes,HL7AUIG-CIB-FHIR-BASE Australian Base Profiles Implementation Guide,Australia
+2018,Yes,Einwilligungsmanagement (Projekt),Germany
+2019,Yes,EPflegebericht (Projekt),Germany
+2010,Yes,EWundbericht (Projekt),Germany
+2015,Yes,FHIR-Basisprofilierung (Projekt),Germany
+2018,Yes,FHIR-Minimaldatensatz,Germany
+2013,Yes,Medikationsplan (Projekt),Germany
+2019,Yes,oncology,Germany
+2020,Yes,eRezept,Germany
+2020,Yes,eAU,Germany
+2019,Yes,medicoR4,Germany
+2019,Yes,nNGM - Molecular Pathology Form,Germany
+2019,Yes,ClinicalSite.org,Germany
+2019,Yes,ADT/GEKID on FHIR,Germany
+2019,Yes,PVS-Archivierungs- und Wechselschnittstelle,Germany
+2019,Yes,Medizininformatik Initiative - Modul Medikation,Germany
+2018,Yes,nNGM - Registration Form,Germany
+2019,Yes,Verordnungssoftware-Schnittstelle V1.10.001,Germany
+2019,Yes,Verordnungssoftware-Schnittstelle V1.01,Germany
+2018,Yes,Klinische Dokumentenklassen-Liste (KDL),Germany
+2019,No,Basisprofil DE (R4),Germany
+2016,Yes,Basisprofil DE (STU3),Germany
+2018,Yes,eTerminservice,Germany
+2016,Yes,medikationsplanplus,Germany
+2017,Yes,GerontoNet,Germany
+2018,Yes,Cancer Care Record on FHIR,Germany
+2018,No,Übertragung von Patientendaten bei einem Systemwechsel (Projekt),Germany
+2017,Yes,Landingspagina MedMij,Netherlands
+2018,Yes,Koppeltaal,Netherlands
+2019,Yes,ZorgDomein,Netherlands
+2018,No,Nictiz STU3 Zib 2017,Netherlands
+2019,Yes,Nictiz STU3 Questionnaires,Netherlands
+2018,No,LIR 2.0,Netherlands
+2017,No,Nictiz STU3 Zib 2015 - Retired,Netherlands
+2018,No,Controle Op Verzekeringsgegevens (COV) PoC,Netherlands
+2016,No,Nictiz DSTU2 - retired,Netherlands
+2019,Yes,FHIR Profiles for Babyconnect,Netherlands
+2020,Yes,Nictiz STU3 Zib 2017 - MP-develop,Netherlands
+2019,Yes,PGO,Netherlands
+2019,Yes,Ivido HCIM profiles,Netherlands
+2019,No,Geboortezorg-STU3,Netherlands
+2018,No,ODLI,Russia
+2019,Yes,ЕГИСЗ Чувашия,Russia
+2020,Yes,Интеграция N3.Здравоохранение с федеральным регистром COVID-19,Russia

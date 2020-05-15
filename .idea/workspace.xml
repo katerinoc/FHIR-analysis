@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15e32328-101f-4790-87a2-81c9d41d6727" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Artezio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Artezio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Artezio/Artezio_3_lesson_tasks/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Artezio/Artezio_3_lesson_tasks/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Artezio/Artezio_3_lesson_tasks/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Artezio/Artezio_3_lesson_tasks/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Artezio/Artezio_3_lesson_tasks/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/requirments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/website_alive/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/website_alive/check_response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4/website_alive/make_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../h/get_htm_page_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../h/get_titles_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../h/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../h/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../h/articles.json" beforeDir="false" afterPath="$PROJECT_DIR$/../h/articles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../h/htmlCrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../h/htmlCrawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../h/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../h/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../h/travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../h/travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../h/unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../h/unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../рп/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../рп/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../рп/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../рп/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../рп/ор.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="423" />
+    <option name="width" value="978" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15e32328-101f-4790-87a2-81c9d41d6727" name="Default Changelist" comment="" />
+      <created>1588622000417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588622000417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12162162" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
